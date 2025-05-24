@@ -1,18 +1,11 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Sobre
+permalink: /sobre/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Este é um espaço pessoal onde compartilho conteúdos sobre desenvolvimento de software, arquitetura, boas práticas e reflexões sobre tecnologia.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+A ideia é manter um registro dos meus aprendizados, experiências e coisas que acho interessante na minha jornada como desenvolvedor.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+O site foi construído utilizando [Jekyll](https://jekyllrb.com/) e hospedado no GitHub Pages. Simples, leve e feito para quem gosta de aprender e compartilhar.
