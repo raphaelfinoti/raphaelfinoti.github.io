@@ -8,4 +8,4 @@ Este é um espaço pessoal onde compartilho conteúdos sobre meus aprendizados e
 
 A ideia é manter registros daquilo que considero interessante na minha jornada como desenvolvedor.
 
-O site foi construído utilizando [Jekyll](https://jekyllrb.com/) e hospedado no GitHub Pages. Simples, leve e feito para quem gosta de aprender e compartilhar.
+O site foi construído utilizando [Jekyll](https://jekyllrb.com/) e está hospedado no GitHub Pages. Simples, leve e feito para quem gosta de aprender e compartilhar.
