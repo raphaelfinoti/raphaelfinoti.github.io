@@ -31,6 +31,10 @@ github_username:  raphaelfinoti
 theme: minima
 plugins:
   - jekyll-feed
+  
+collections:
+  desenvolvimento:
+    output: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
